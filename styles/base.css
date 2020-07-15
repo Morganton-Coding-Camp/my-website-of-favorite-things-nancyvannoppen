@@ -73,6 +73,8 @@ iframe {
 .banner {
   min-height: 25vh;
   padding: 5rem 1rem;
+  background-image: url('../pink-and-purple-wallpaper-1616403.jpg');
+  background-position: center;
 }
 
 .profile-img {
