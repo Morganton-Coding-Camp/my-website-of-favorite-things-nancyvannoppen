@@ -75,6 +75,7 @@ iframe {
   padding: 5rem 1rem;
   background-image: url('../pink-and-purple-wallpaper-1616403.jpg');
   background-position: center;
+  background-repeat: no-repeat;
 }
 
 .profile-img {
