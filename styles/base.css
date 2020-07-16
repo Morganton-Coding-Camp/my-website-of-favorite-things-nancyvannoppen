@@ -117,3 +117,25 @@ iframe {
   padding: 2rem;
   color: black;
 }
+
+.footer {
+  text-align: center;
+  padding: 2rem;
+  font-size: 1.5rem;
+}
+
+.btn-1 {
+  background: #ff1493;
+  color: #1493ff;
+  padding: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: .25rem;
+  font-size: .9rem;
+  border: 1px solid white;
+  transition: border .3s ease;
+}
+
+.btn-1:hover {
+  border: 15px solid #1493ff;
+}
