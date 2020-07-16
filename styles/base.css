@@ -99,3 +99,21 @@ iframe {
   width: auto;
   border-radius: 50%;
 }
+
+.favorites-animal {
+  background: #1493ff;
+  padding: 2rem;
+  color: black;
+}
+
+.favorites-topping {
+  background: #ff1493;
+  padding: 2rem;
+  color: white;
+}
+
+.favorites-restaurant {
+  background: #93ff14;
+  padding: 2rem;
+  color: black;
+}
