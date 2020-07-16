@@ -100,19 +100,19 @@ iframe {
   border-radius: 50%;
 }
 
-.favorites-animal {
+.favorite-animal {
   background: #1493ff;
   padding: 2rem;
   color: black;
 }
 
-.favorites-topping {
+.favorite-topping {
   background: #ff1493;
   padding: 2rem;
   color: white;
 }
 
-.favorites-restaurant {
+.favorite-restaurant {
   background: #93ff14;
   padding: 2rem;
   color: black;
