@@ -144,3 +144,11 @@ iframe {
 .btn-1:hover {
   border: 15px solid #1493ff;
 }
+
+.copyright {
+  background: white;
+  color: black;
+  text-align: center;
+  padding: .5rem;
+  font-size: .8rem;
+}
