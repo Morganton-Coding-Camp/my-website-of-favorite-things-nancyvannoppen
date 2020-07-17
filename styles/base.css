@@ -131,7 +131,8 @@ iframe {
   text-transform: uppercase;
   letter-spacing: 2px;
   border-radius: .25rem;
-  font-size: .9rem;
+  font-size: 1rem;
+  text-decoration: none;
   border: 1px solid white;
   transition: border .3s ease;
 }
